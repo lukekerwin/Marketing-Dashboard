@@ -1,0 +1,4 @@
+pandas==1.5.3
+streamlit==1.25.0
+streamlit-aggrid==0.3.4.post3
+streamlit_authenticator==0.2.3
